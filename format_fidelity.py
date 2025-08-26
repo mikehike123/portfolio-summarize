@@ -1,3 +1,4 @@
+# Test publishing in git.
 import pandas as pd
 
 def format_fidelity_download(input_file='Portfolio_Positions_Aug-25-2025.csv', output_file='fidelity_cleaned.csv'):
