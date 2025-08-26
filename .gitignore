@@ -1,0 +1,12 @@
+# Ignore the directory containing all sensitive data
+data/
+
+# Ignore the directory containing all output files
+results/
+
+# Python specific ignores
+__pycache__/
+*.pyc
+
+# VSCode specific ignores
+.vscode/
